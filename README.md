@@ -1,4 +1,4 @@
-# simple virus-check on windows
+# simple virus-check on windows:
 
 
 View Established Connections in Terminal:
